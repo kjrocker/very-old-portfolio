@@ -3,3 +3,17 @@
 ---
 
 @import "minima";
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+$serif: 'Merriweather', serif;
+$sans-serif: 'Lato', sans-serif;
+
+body {
+  font-size: 16px;
+  font-family: $serif;
+  line-height: 1.6em;
+  h1, h2, h3, h4 {
+    font-family: $sans-serif;
+  }
+}
