@@ -2,6 +2,7 @@
 layout: post
 title:  "Code Snippet Shenanigans"
 date:   2017-05-31 16:54:12 -0400
+description: A selection of code snippets from various languages that I find interesting.
 
 ---
 This is my first post! I have a blog now! I'll put tech things on it as I work through various projects.
